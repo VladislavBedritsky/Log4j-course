@@ -1,5 +1,0 @@
-[TRACE] 2020-03-28 10:12:57.398 [main] Log4jDemo - trace message
-[INFO ] 2020-03-28 10:12:57.409 [main] Log4jDemo - info message
-[ERROR] 2020-03-28 10:12:57.410 [main] Log4jDemo - error message
-[WARN ] 2020-03-28 10:12:57.410 [main] Log4jDemo - warn message
-[FATAL] 2020-03-28 10:12:57.410 [main] Log4jDemo - fatal message
